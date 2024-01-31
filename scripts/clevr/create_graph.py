@@ -180,3 +180,5 @@ if __name__ == "__main__":
 
     with open("questions.jsonl", "w") as file:
         file.write("\n".join(questions))
+    
+    print("Creating questions finished.")
