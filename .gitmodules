@@ -1,0 +1,3 @@
+[submodule "scripts/clevr/clevr-graph"]
+	path = scripts/clevr/clevr-graph
+	url = https://github.com/Octavian-ai/clevr-graph

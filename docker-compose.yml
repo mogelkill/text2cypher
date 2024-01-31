@@ -1,0 +1,53 @@
+version: '3'
+services:
+  clevrdb:
+    image: neo4j:5.9.0
+    container_name: CLEVRDB
+    ports:
+      - "7474:7474" # HTTP
+      - "7687:7687" # Bolt
+    volumes:
+      - .dbs\CLEVR:/data
+    environment:
+      NEO4J_AUTH: none
+      NEO4J_dbms_default__listen__address: 0.0.0.0
+      NEO4J_dbms_ssl_policy_bolt_client__auth: NONE
+      NEO4J_dbms_ssl_policy_https_client__auth: NONE
+      NEO4J_apoc_export_file_enabled: true
+      NEO4J_apoc_import_file_enabled: true
+      NEO4J_apoc_import_file_use__neo4j__config: true
+      NEO4JLABS_PLUGINS: "[\"apoc\"]"
+
+  moviedb:
+    image: neo4j:5.9.0
+    container_name: MovieDB
+    ports:
+      - "7475:7474" # HTTP
+      - "7688:7687" # Bolt
+    volumes:
+      - .dbs\MovieDB:/data
+    environment:
+      NEO4J_AUTH: none
+      NEO4J_dbms_default__listen__address: 0.0.0.0
+      NEO4J_dbms_ssl_policy_bolt_client__auth: NONE
+      NEO4J_dbms_ssl_policy_https_client__auth: NONE
+      NEO4J_apoc_export_file_enabled: true
+      NEO4J_apoc_import_file_enabled: true
+      NEO4J_apoc_import_file_use__neo4j__config: true
+      NEO4JLABS_PLUGINS: "[\"apoc\"]"
+
+  ui:
+    build: .
+    container_name: UI
+    depends_on:
+      - moviedb
+      - clevrdb
+    ports:
+      - "7860:7860"
+    environment:
+      CLEVR_DB_URI: "bolt://clevrdb:7687"
+      MOVIE_DB_URI: "bolt://moviedb:7687"
+      OPEN_AI_MODEL: "gpt-4-1106-preview"
+      OPENAI_KEY: ${OPENAI_KEY}
+    restart: unless-stopped
+
