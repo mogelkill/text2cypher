@@ -30,9 +30,9 @@ Follow these steps to set up the Text2Cypher service:
 
 ## Graph Initialization
 
-This section provides guidance on initializing the Movie and CLEVR Graphs using the scripts located in the [`scripts`](/scripts/) subdirectory. 
+The scripts located in the [`scripts`](/scripts/) subdirectory can be used to initialize the Movie and CLEVR Graphs. 
 
-The CLEVR graphs are synthetically generated and vary with each iteration. For evaluation purposes, we have included the database files necessary for the CLEVR graphs at this [link](https://drive.google.com/file/d/1fJVcK5A3F8BIBVm9MNvfn-l-rJS6XsaS/view?usp=drive_link).
+The CLEVR graphs are synthetically generated and vary with each iteration. To ensure reproducible results, we have included the database files necessary for the CLEVR graph at this [link](https://drive.google.com/file/d/1fJVcK5A3F8BIBVm9MNvfn-l-rJS6XsaS/view?usp=drive_link).
 
 To incorporate these files into your setup, simply mount the `CLEVR` folder into the `clevrdb` container. This will enable the container to access and utilize the provided database files for graph initialization.
 
