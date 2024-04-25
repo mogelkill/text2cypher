@@ -2,6 +2,13 @@
 
 Text2Cypher provides a natural language interface for generating Cypher query language (CQL) statements for Neo4j databases, based on a specified database schema.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./resources/darkmode.png">
+  <source media="(prefers-color-scheme: light)" srcset="./resources/lightmode.png">
+  <img alt="Chat example" src="./resources/lightmode.png" height="300">
+</picture>
+
+
 ## Setup Instructions
 
 Follow these steps to set up the Text2Cypher service:
