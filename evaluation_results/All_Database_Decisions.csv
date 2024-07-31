@@ -1,0 +1,283 @@
+Question;Expected Database;Chatbot Decision;Duration
+Which products does the ordner with the orderID 10254 contain?;Northwind;Northwind;1.45770525932312
+Which suppliers provide more than 10 different products?;Northwind;Northwind;1.3119971752166748
+"Give me all purchases of the company """"Antonio Moreno Taqueria""""";Northwind;Northwind;1.0428369045257568
+What is the average delivery time for orders from Product to Product?;Northwind;Northwind;1.3731138706207275
+Can you list all the products that have a price higher than $9?;Northwind;Northwind;1.513749361038208
+Who are the 10 most recent suppliers?;Northwind;Northwind;1.780322551727295
+Can you list all the products that have a price higher than $4?;Northwind;Northwind;1.4543256759643557
+Which suppliers provide more than 6 different products?;Northwind;Northwind;1.159660816192627
+Which suppliers provide more than 3 different products?;Northwind;Northwind;1.614433765411377
+Can you list all the products that have a price higher than $1?;Northwind;Northwind;1.73484468460083
+"Which products does the supplier """"Pavlova"""" supply?";Northwind;Northwind;0.993647575378418
+Can you list all the products that have a price higher than $3?;Northwind;Northwind;1.2189996242523191
+Which suppliers provide more than 4 different products?;Northwind;Northwind;1.103994846343994
+"What products are part of the category """"Confections""""?";Northwind;Northwind;2.611615896224976
+Can you list all the products that have a price higher than $7?;Northwind;Northwind;1.6776890754699707
+Can you list all product categories?;Northwind;Northwind;1.5499165058135986
+"What is the description of the category """"Grains/Cereals""""?";Northwind;Northwind;1.1340632438659668
+Who are the top 10 customers based on the number of orders placed?;Northwind;Northwind;1.577427625656128
+Which Product have the highest stock levels?;Northwind;Northwind;1.6875238418579102
+Which products are most frequently out of stock?;Northwind;Northwind;1.5758070945739746
+Can you list all the products that have a price higher than $6?;Northwind;Northwind;1.1007840633392334
+Which products does the ordner with the orderID 10255 contain?;Northwind;Northwind;1.4949827194213867
+Who are the top 6 customers based on the number of orders placed?;Northwind;Northwind;1.093472957611084
+How many orders were placed in the last year for Product?;Northwind;Northwind;1.3368353843688965
+Which suppliers provide more than 7 different products?;Northwind;Northwind;1.5353655815124512
+"Give me all purchases of the company """"Around the Horn""""";Northwind;Northwind;1.4036259651184082
+Who are the top 3 customers based on the number of orders placed?;Northwind;Northwind;1.8593955039978027
+Who are our 7 most recent suppliers?;Northwind;Northwind;1.2565174102783203
+What are the most popular products in the Product category?;Northwind;Northwind;3.0240349769592285
+Does the supplier Exotic Liquids supply the product Chang?;Northwind;Northwind;1.4965405464172363
+Can you identify products that have been discontinued?;Northwind;Northwind;1.998219966888428
+Who are the top 8 customers based on the number of orders placed?;Northwind;Northwind;1.577476978302002
+"What products are part of the category """"Condiments""""?";Northwind;Northwind;1.768992900848389
+Which suppliers provide more than 5 different products?;Northwind;Northwind;1.46730375289917
+What factors contribute to the formation of tornadoes?;None;None;1.3559653759002686
+How do ancient Egyptian hieroglyphs compare to modern writing systems?;None;None;2.688535213470459
+What are the health benefits of a Mediterranean diet?;None;None;1.612961769104004
+How do self-driving cars navigate and avoid obstacles?;None;None;1.587829828262329
+What is the role of gut bacteria in human digestion?;None;None;2.252142906188965
+How do glaciers shape the landscape?;None;None;0.9971086978912354
+What are the origins of the Olympic Games?;None;None;1.393484592437744
+How does the immune system respond to a viral infection?;None;None;1.162996768951416
+What are the principles of Feng Shui in interior design?;None;None;1.3201322555541992
+How do different cultures around the world prepare and drink tea?;None;None;2.113716125488281
+What movies has Keanu Reeves acted in?;MovieDatabase;MovieDatabase;1.221606731414795
+Which movies are categorized under the Sci-Fi genre?;MovieDatabase;MovieDatabase;1.2659006118774414
+How many movies has Carrie-Anne Moss directed?;MovieDatabase;MovieDatabase;1.1796023845672607
+"Who directed the movie ""The Matrix Reloaded""?";MovieDatabase;MovieDatabase;1.0527794361114502
+"What are the genres of the movie ""The Devil's Advocate""?";MovieDatabase;MovieDatabase;1.5141336917877195
+Find all the movies with a rating higher than 8.;MovieDatabase;MovieDatabase;2.1139039993286133
+Which movies did Laurence Fishburne direct?;MovieDatabase;MovieDatabase;1.6474785804748535
+When was the actor Keanu Reeves born?;MovieDatabase;MovieDatabase;1.1587347984313965
+"How many votes did the movie ""The Matrix Reloaded"" receive?";MovieDatabase;MovieDatabase;1.5432708263397217
+"Who directed the movie ""Wall Street""?";MovieDatabase;MovieDatabase;1.7820684909820557
+"What is the tagline of the movie ""What Dreams May Come""?";MovieDatabase;MovieDatabase;1.2772114276885986
+In which movies has Carrie-Anne Moss acted?;MovieDatabase;MovieDatabase;1.4935178756713867
+"When was the movie ""The Devil's Advocate"" released?";MovieDatabase;MovieDatabase;1.9023442268371584
+"How many votes did the movie ""Wall Street"" receive?";MovieDatabase;MovieDatabase;1.7200641632080078
+"Did Hugo Weaving act in, direct, or produce ""The Matrix Reloaded""?";MovieDatabase;MovieDatabase;1.3313384056091309
+"What is the tagline of the movie ""The Devil's Advocate""?";MovieDatabase;MovieDatabase;1.1246767044067385
+What year was the actor Hugo Weaving born?;MovieDatabase;MovieDatabase;1.548165798187256
+Which movies has Joel Silver produced?;MovieDatabase;MovieDatabase;1.6314494609832764
+"What is the release year of the movie ""Wall Street""?";MovieDatabase;MovieDatabase;1.4223387241363523
+"Did Carrie-Anne Moss act in ""What Dreams May Come""?";MovieDatabase;MovieDatabase;1.3185877799987793
+What movies were directed by Laurence Fishburne?;MovieDatabase;MovieDatabase;1.690743923187256
+"When was the movie ""The Devil's Advocate"" released?";MovieDatabase;MovieDatabase;2.886091709136963
+"How many votes did the movie ""What Dreams May Come"" receive?";MovieDatabase;MovieDatabase;2.0976078510284424
+Has Keanu Reeves ever directed a movie?;MovieDatabase;MovieDatabase;1.6126060485839844
+What is the actor Joel Silver's birth year?;MovieDatabase;MovieDatabase;1.9623725414276123
+Which movies feature Hugo Weaving as an actor?;MovieDatabase;MovieDatabase;1.0826735496520996
+"Did Laurence Fishburne act in or direct ""Wall Street""?";MovieDatabase;MovieDatabase;1.3026928901672363
+How many movies has Carrie-Anne Moss acted in since 2000?;MovieDatabase;MovieDatabase;2.6827385425567627
+"In what year was the movie ""The Matrix Reloaded"" released?";MovieDatabase;MovieDatabase;2.267872095108032
+"Who produced the movie ""The Devil's Advocate""?";MovieDatabase;MovieDatabase;3.71376371383667
+What movies has Keanu Reeves acted in that were released in the 2000s?;MovieDatabase;MovieDatabase;1.5912771224975586
+"Did Hugo Weaving act in ""What Dreams May Come""?";MovieDatabase;MovieDatabase;1.960313081741333
+"How many votes did the movie ""The Matrix Reloaded"" receive in total?";MovieDatabase;MovieDatabase;2.179171323776245
+List all the movies directed by Joel Silver.;MovieDatabase;MovieDatabase;1.623769760131836
+What is the birth year of the actor Carrie-Anne Moss?;MovieDatabase;MovieDatabase;2.4757487773895264
+Which movies starring Laurence Fishburne were released in the 1990s?;MovieDatabase;MovieDatabase;1.461240530014038
+"Did Keanu Reeves act in or direct ""Wall Street""?";MovieDatabase;MovieDatabase;1.847450256347656
+What movies has Hugo Weaving acted in with a Sci-Fi theme?;MovieDatabase;MovieDatabase;2.8381290435791016
+In which movies did Carrie-Anne Moss play a leading role?;MovieDatabase;MovieDatabase;1.132972002029419
+"What is the release year of the movie ""What Dreams May Come""?";MovieDatabase;MovieDatabase;1.5408704280853271
+List all the movies produced by Joel Silver.;MovieDatabase;MovieDatabase;1.7658636569976809
+What movies has Laurence Fishburne acted in that have won awards?;MovieDatabase;MovieDatabase;1.3256258964538574
+Did Hugo Weaving direct any movies released in the 2000s?;MovieDatabase;MovieDatabase;1.2995102405548096
+What is the birth year of the actor Laurence Fishburne?;MovieDatabase;MovieDatabase;2.7619199752807617
+Which movies starring Carrie-Anne Moss have a Romance theme?;MovieDatabase;MovieDatabase;1.5734195709228516
+Who directed the movies that Joel Silver produced?;MovieDatabase;MovieDatabase;1.865642070770264
+"Who wrote the script for the movie ""The Matrix Reloaded""?";MovieDatabase;MovieDatabase;1.200042486190796
+Which movies feature Keanu Reeves in a leading role?;MovieDatabase;MovieDatabase;2.255677461624145
+Has Hugo Weaving ever been involved in a movie as a producer?;MovieDatabase;MovieDatabase;1.9500112533569336
+How many films has Carrie-Anne Moss acted in that were released before 2000?;MovieDatabase;MovieDatabase;2.2041773796081543
+Who directed the movies in which Joel Silver acted?;MovieDatabase;MovieDatabase;1.6367368698120115
+"When was the movie ""Wall Street"" released?";MovieDatabase;MovieDatabase;1.3922843933105469
+How many movies has Joel Silver produced?;MovieDatabase;MovieDatabase;1.654773235321045
+What movies starring Carrie-Anne Moss were released in the 1990s?;MovieDatabase;MovieDatabase;1.0452454090118408
+"Who wrote the script for the movie ""The Devil's Advocate""?";MovieDatabase;MovieDatabase;2.2655460834503174
+"How many awards has the movie ""What Dreams May Come"" won?";MovieDatabase;MovieDatabase;1.6757009029388428
+"What's the tagline for the movie ""Wall Street""?";MovieDatabase;MovieDatabase;1.5823969841003418
+"In what year was the movie ""The Devil's Advocate"" released?";MovieDatabase;MovieDatabase;1.8779821395874023
+What movies feature Hugo Weaving in a supporting role?;MovieDatabase;MovieDatabase;1.4033198356628418
+Which films has Joel Silver directed?;MovieDatabase;MovieDatabase;2.5274105072021484
+"How many votes did the movie ""What Dreams May Come"" get?";MovieDatabase;MovieDatabase;1.6451711654663086
+"Did Carrie-Anne Moss act in ""The Devil's Advocate""?";MovieDatabase;MovieDatabase;0.9664130210876464
+What year was the actor Laurence Fishburne born?;MovieDatabase;MovieDatabase;1.364870548248291
+Which movies has Keanu Reeves reviewed?;MovieDatabase;MovieDatabase;1.6442668437957764
+How many films has Hugo Weaving acted in since 2010?;MovieDatabase;MovieDatabase;1.437378168106079
+"Did Keanu Reeves act in or produce ""What Dreams May Come""?";MovieDatabase;MovieDatabase;1.5504658222198486
+"What's the tagline for the movie ""What Dreams May Come""?";MovieDatabase;MovieDatabase;1.316847324371338
+When was the actor Keanu Reeves born?;MovieDatabase;MovieDatabase;1.287947177886963
+"How many votes did the movie ""The Matrix"" receive?";MovieDatabase;MovieDatabase;1.051931858062744
+"What is the tagline of the movie ""The Matrix Reloaded""?";MovieDatabase;MovieDatabase;1.367178201675415
+"When was the movie ""The Matrix Revolutions"" released?";MovieDatabase;MovieDatabase;1.5838208198547363
+"Did Carrie-Anne Moss act in the movie ""The Devil's Advocate""?";MovieDatabase;MovieDatabase;1.6974155902862549
+What movies has Laurence Fishburne directed?;MovieDatabase;MovieDatabase;1.355624437332153
+"How many votes did the movie ""A Few Good Men"" receive?";MovieDatabase;MovieDatabase;1.2821953296661377
+"What is the tagline of the movie ""Top Gun""?";MovieDatabase;MovieDatabase;1.9526023864746092
+"When was the movie ""Jerry Maguire"" released?";MovieDatabase;MovieDatabase;1.3285253047943115
+In which movies has Hugo Weaving acted?;MovieDatabase;MovieDatabase;2.104733467102051
+What year was the actor Lilly Wachowski born?;MovieDatabase;MovieDatabase;1.1337695121765137
+Which movies has Lana Wachowski directed?;MovieDatabase;MovieDatabase;1.9563469886779783
+"How many votes did the movie ""Joe Versus the Volcano"" get?";MovieDatabase;MovieDatabase;1.472606897354126
+"What is the tagline of the movie ""When Harry Met Sally""?";MovieDatabase;MovieDatabase;1.3879196643829346
+"When was the movie ""That Thing You Do"" released?";MovieDatabase;MovieDatabase;13.121756076812744
+"Did Joel Silver produce ""The Replacements""?";MovieDatabase;MovieDatabase;1.4633586406707764
+What movies has Emil Eifrem acted in?;MovieDatabase;MovieDatabase;1.1474215984344482
+"How many votes did the movie ""Rescue Dawn"" receive?";MovieDatabase;MovieDatabase;1.7424266338348389
+"What is the tagline of the movie ""The Birdcage""?";MovieDatabase;MovieDatabase;1.1844584941864014
+"When was the movie ""Unforgiven"" released?";MovieDatabase;MovieDatabase;2.5749027729034424
+In which movies has Charlize Theron acted?;MovieDatabase;MovieDatabase;1.2279577255249023
+"How many votes did the movie ""Johnny Mnemonic"" receive?";MovieDatabase;MovieDatabase;1.3348195552825928
+"What is the tagline of the movie ""Cloud Atlas""?";MovieDatabase;MovieDatabase;1.283092975616455
+"When was ""The Da Vinci Code"" released?";MovieDatabase;MovieDatabase;1.2351396083831787
+"Did Al Pacino act in ""V for Vendetta""?";MovieDatabase;MovieDatabase;3.8951783180236816
+What movies has Taylor Hackford directed?;MovieDatabase;MovieDatabase;1.3259053230285645
+"How many votes did the movie ""Speed Racer"" get?";MovieDatabase;MovieDatabase;1.05597186088562
+"What is the tagline of the movie ""Ninja Assassin""?";MovieDatabase;MovieDatabase;3.985862970352173
+"When was the movie ""The Green Mile"" released?";MovieDatabase;MovieDatabase;1.9538922309875488
+In which movies has Tom Cruise acted?;MovieDatabase;MovieDatabase;3.538016557693481
+"How many votes did the movie ""Frost/Nixon"" receive?";MovieDatabase;MovieDatabase;2.174063205718994
+"What is the tagline of the movie ""Hoffa""?";MovieDatabase;MovieDatabase;1.637171506881714
+"When was the movie ""Apollo 13"" released?";MovieDatabase;MovieDatabase;2.206518173217773
+"Did Jack Nicholson act in ""Twister""?";MovieDatabase;MovieDatabase;1.179774284362793
+What movies has Demi Moore directed?;MovieDatabase;MovieDatabase;1.7968523502349854
+"How many votes did the movie ""Cast Away"" get?";MovieDatabase;MovieDatabase;1.2172191143035889
+"What is the tagline of the movie ""One Flew Over the Cuckoo's Nest""?";MovieDatabase;MovieDatabase;1.5567412376403809
+"When was the movie ""Something's Gotta Give"" released?";MovieDatabase;MovieDatabase;1.0136098861694336
+In which movies has Renee Zellweger acted?;MovieDatabase;MovieDatabase;1.5693097114562988
+"How many votes did the movie ""Bicentennial Man"" receive?";MovieDatabase;MovieDatabase;1.2647428512573242
+"What is the tagline of the movie ""Charlie Wilson's War""?";MovieDatabase;MovieDatabase;1.3759796619415283
+"When was the movie ""The Polar Express"" released?";MovieDatabase;MovieDatabase;1.2542033195495603
+"Did Kiefer Sutherland act in ""A League of Their Own""?";MovieDatabase;MovieDatabase;2.3741872310638428
+What movies has Noah Wyle directed?;MovieDatabase;MovieDatabase;1.298068284988403
+"How many votes did the movie ""Stand By Me"" get?";MovieDatabase;MovieDatabase;1.578014612197876
+"What is the tagline of the movie ""As Good as It Gets""?";MovieDatabase;MovieDatabase;1.516024112701416
+"When was the movie ""What Dreams May Come"" released?";MovieDatabase;MovieDatabase;2.411904811859131
+In which movies has Cuba Gooding Jr. acted?;MovieDatabase;MovieDatabase;1.0343453884124756
+"How many votes did the movie ""Snow Falling on Cedars"" receive?";MovieDatabase;MovieDatabase;1.6679487228393557
+"What is the tagline of the movie ""You've Got Mail""?";MovieDatabase;MovieDatabase;2.3480257987976074
+Was the actor Lilly Wachowski born in 1960?;MovieDatabase;MovieDatabase;1.3180434703826904
+What is the process of photosynthesis in plants?;None;None;1.692948579788208
+How do black holes affect the galaxies they are in?;None;None;1.8936126232147217
+What are the primary ingredients in a traditional Japanese ramen?;None;None;1.4690167903900146
+What strategies can be used to reduce plastic waste in oceans?;None;None;1.0490305423736572
+How does meditation impact mental health?;None;None;2.7197067737579346
+What is the history behind the construction of the Eiffel Tower?;None;None;1.8949100971221924
+How do bees communicate with each other in a hive?;None;None;1.3515806198120115
+What are the challenges in achieving sustainable urban development?;None;None;1.5775797367095947
+How do different cultures around the world celebrate the New Year?;None;None;1.0751311779022217
+What are the latest advancements in renewable energy technology?;None;None;1.413428783416748
+Can you get rail connections at Wheauls Street?;CLEVR;CLEVR;5.374566316604614
+Does Chrietch Bridge have rail connections?;CLEVR;CLEVR;1.8159728050231931
+How many stations are between Pruest Bridge and Jeask Palace?;CLEVR;CLEVR;1.344566822052002
+Describe Kliags Bridge station's architectural style.;CLEVR;CLEVR;1.827087640762329
+Can you get rail connections at Schwarryington?;CLEVR;CLEVR;1.8792695999145508
+Does Bluiert Lane have rail connections?;CLEVR;CLEVR;2.2916083335876465
+How clean is Ghiigh Way?;CLEVR;CLEVR;2.907646894454956
+How clean is Tousch Lane?;CLEVR;CLEVR;2.0486257076263428
+Describe Siish Boulevard station's architectural style.;CLEVR;CLEVR;1.7635409832000732
+How many lines is Miaor Court on?;CLEVR;CLEVR;1.8322405815124512
+Does Khords Court have rail connections?;CLEVR;CLEVR;1.952256679534912
+How many lines is Fiallsneyland on?;CLEVR;CLEVR;2.0373194217681885
+Describe Szuoch Bridge station's architectural style.;CLEVR;CLEVR;1.7044856548309326
+What music plays at Dwuiews Bridge?;CLEVR;CLEVR;1.4660084247589111
+Which stations does Red Hrouly pass through?;CLEVR;CLEVR;1.8485994338989256
+Describe Skiesly Palace station's architectural style.;CLEVR;CLEVR;1.999788522720337
+How many stations are between Rheirst Lane and Mcfial St?;CLEVR;CLEVR;1.545839548110962
+Is there disabled access at Hyuolt Manor?;CLEVR;CLEVR;2.067145586013794
+What is the cleanliness level of Twaizbridge station?;CLEVR;CLEVR;2.030863046646118
+Are Montlyham and Schmiarfington on the same line?;CLEVR;CLEVR;2.366984605789185
+Are Klaucs On Trent and Glauehl Way on the same line?;CLEVR;CLEVR;1.5869803428649902
+Does Siish Boulevard have disabled access?;CLEVR;CLEVR;3.2830066680908203
+Is there disabled access at Cliick On Trent?;CLEVR;CLEVR;1.6025846004486084
+What size is Sift Boulevard?;CLEVR;CLEVR;2.127583265304565
+Does Trauesp Palace have rail connections?;CLEVR;CLEVR;4.067046880722046
+How clean is Rheirst Lane?;CLEVR;CLEVR;3.1118123531341557
+What size is Kliags Bridge?;CLEVR;CLEVR;2.648730516433716
+Can you get rail connections at Cuinnton?;CLEVR;CLEVR;2.437321186065674
+Describe Jeod On Trent station's architectural style.;CLEVR;CLEVR;1.8379573822021484
+Can you get rail connections at Debington?;CLEVR;CLEVR;2.1193079948425293
+What architectural style is Kleompton?;CLEVR;CLEVR;1.1476991176605225
+Is there disabled access at Xaath Way?;CLEVR;CLEVR;1.8679180145263672
+Is there disabled access at Mcgeegsington?;CLEVR;CLEVR;1.7535357475280762
+What music plays at Schruaks Grove?;CLEVR;None;1.358651876449585
+Does Looks Square have disabled access?;CLEVR;CLEVR;2.56884241104126
+How many stations are between Mcgeegsington and Dynieucks St?;CLEVR;CLEVR;4.932343244552612
+Describe Slairt Estate station's architectural style.;CLEVR;CLEVR;2.411137580871582
+How many sizes of station does Purple Psycharts pass through?;CLEVR;CLEVR;1.5990362167358398
+What size is Glauehl Way?;CLEVR;CLEVR;2.739846706390381
+How many sizes of station does Pink Dreark pass through?;CLEVR;CLEVR;2.6781527996063232
+Which lines is Jeiabs Hospital on?;CLEVR;CLEVR;2.513846635818481
+What is the cleanliness level of Diocs Estate station?;CLEVR;CLEVR;2.136554956436157
+Are Chrietch Bridge and Spieuhl St on the same line?;CLEVR;CLEVR;1.7481582164764404
+Which stations does Blue Twauect pass through?;CLEVR;CLEVR;1.6032915115356443
+How many stations are between Klioc Palace and Krep Bridge?;CLEVR;CLEVR;1.294438123703003
+What architectural style is Spieuhl St?;CLEVR;CLEVR;1.3967208862304688
+How clean is Soillsham?;CLEVR;None;2.281277656555176
+How big is Soillsham?;CLEVR;None;1.3160011768341064
+How many stations are between Schruaks Grove and Schmeelly Court?;CLEVR;CLEVR;5.8100221157073975
+How many lines is Schlaiosm Hospital on?;CLEVR;CLEVR;1.7127666473388672
+What is the cleanliness level of Chraets Square station?;CLEVR;CLEVR;1.2048470973968506
+How many architectural styles does Purple Xiour pass through?;CLEVR;CLEVR;2.2050576210021973
+Are Pfaorts Court and Klaucs On Trent on the same line?;CLEVR;CLEVR;2.836019277572632
+Does Xaath Way have rail connections?;CLEVR;CLEVR;1.873018741607666
+Are Fruirtyneyland and Theunn Crossing on the same line?;CLEVR;CLEVR;1.3834702968597412
+What is the cleanliness level of Sqearn Bridge station?;CLEVR;CLEVR;1.4146912097930908
+How big is Wreastton?;CLEVR;None;1.1923048496246338
+Is there disabled access at Whiaop Street?;CLEVR;CLEVR;4.099909543991089
+How many music styles does Blue Twauect pass through?;CLEVR;CLEVR;1.5348050594329834
+How many sizes of station does Green Criengs pass through?;CLEVR;CLEVR;1.5970375537872314
+How many architectural styles does Cyan Hypory pass through?;CLEVR;CLEVR;1.6452429294586182
+What size is Trauesp Palace?;CLEVR;None;2.870966672897339
+Describe Jauedy Hospital station's architectural style.;CLEVR;CLEVR;2.5610339641571045
+Are Typairn Estate and Kroakswich on the same line?;CLEVR;CLEVR;2.5514955520629883
+How many stations are between Pfeirty International and Schlaiosm Hospital?;CLEVR;CLEVR;2.0044045448303223
+How many architectural styles does Green Mcgoimp pass through?;CLEVR;CLEVR;2.6369009017944336
+How many lines is Wrotz Upon Thames on?;CLEVR;CLEVR;3.1049633026123047
+Which stations does Pink Dreark pass through?;CLEVR;CLEVR;2.514471530914306
+Is there disabled access at Froam Lane?;CLEVR;CLEVR;1.7986171245574951
+How clean is Wrotz Upon Thames?;CLEVR;None;1.8194496631622317
+How clean is Gloiatsneyland?;CLEVR;None;3.005466222763061
+How many lines is Cuinnton on?;CLEVR;CLEVR;1.3325107097625732
+Can you get rail connections at Hypiap Grove?;CLEVR;CLEVR;2.1206390857696533
+What is the cleanliness level of Mcciays Court station?;CLEVR;CLEVR;1.7031888961791992
+Does Mccaork Estate have disabled access?;CLEVR;CLEVR;1.9965441226959229
+What is the cleanliness level of Praiacy Crossing station?;CLEVR;CLEVR;1.996438980102539
+At Thruolly Lane what sort of music plays?;CLEVR;CLEVR;3.053138494491577
+How many music styles does Orange Dweots pass through?;CLEVR;None;2.5564465522766118
+Is there disabled access at Physeiasts Road?;CLEVR;CLEVR;1.4224951267242432
+How many stations are between Jeask Palace and Psycheact Hospital?;CLEVR;CLEVR;2.6136674880981445
+What is the cleanliness level of Spriaords Palace station?;CLEVR;CLEVR;2.1554620265960693
+Which lines is Hypiap Grove on?;CLEVR;CLEVR;1.70414400100708
+How many architectural styles does Purple Xiour pass through?;CLEVR;CLEVR;2.7625317573547363
+Is there disabled access at Draamp Lane?;CLEVR;CLEVR;2.5183093547821045
+Can you get rail connections at Pfaantlywich?;CLEVR;CLEVR;1.8968088626861568
+What is the cleanliness level of Schooz Upon Thames station?;CLEVR;CLEVR;2.164923906326294
+Which lines is Jeod On Trent on?;CLEVR;CLEVR;1.7977964878082275
+What size is Schwuosk Estate?;CLEVR;None;2.903487205505371
+Is there disabled access at Knaapt Manor?;CLEVR;CLEVR;2.133071184158325
+Does Trar Crossing have disabled access?;CLEVR;CLEVR;1.8843119144439695
+Does Fruirtyneyland have disabled access?;CLEVR;CLEVR;3.208585500717163
+What size is Snieub Estate?;CLEVR;CLEVR;2.3380253314971924
+How many sizes of station does Cyan Troll pass through?;CLEVR;CLEVR;2.1020240783691406
+What size is Hypask Square?;CLEVR;CLEVR;2.594496965408325
+At Mcclass Court what sort of music plays?;CLEVR;None;1.559983730316162
+Describe Spieuhl St station's architectural style.;CLEVR;CLEVR;2.4136054515838623
+Does Mcfoepp Lane have disabled access?;CLEVR;CLEVR;1.3425955772399902
+What is the cleanliness level of Psychiaongs Court station?;CLEVR;CLEVR;2.160148859024048
+Are Symbeiash Hospital and Mcfial St on the same line?;CLEVR;CLEVR;2.871643304824829
+Does Schwarryington have rail connections?;CLEVR;CLEVR;1.6467676162719729
+What is the capital city of France?;None;None;2.14554214477539
+What year did the first moon landing occur?;None;None;1.7779531478881836
+Who wrote the play 'Romeo and Juliet'?;None;None;1.3420689105987549
+What is the main ingredient in traditional Italian pasta?;None;None;1.9759588241577148
+What is the chemical symbol for water?;None;None;1.922520875930786
+Who was the first president of the United States?;None;None;1.6629536151885986
+In which continent is the Sahara Desert located?;None;None;1.718043327331543
+What is the largest mammal in the ocean?;None;None;3.791964292526245
+What is the primary language spoken in Brazil?;None;None;1.7382268905639648
+What is the boiling point of water at sea level?;None;None;1.5981464385986328

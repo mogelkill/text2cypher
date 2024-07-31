@@ -1,0 +1,215 @@
+Question;Answer Question;Followup Question;Used History Expected;Used History Chatbot Decision;Duration
+Can you get rail connections at Wheauls Street?;Wheauls Street has rail connections available.;Can you get rail connections at Wheauls Street?;True;False;1.4137165546417236
+Does Chrietch Bridge have rail connections?;Chrietch Bridge does not have rail connections.;Does Chrietch Bridge have rail connections?;True;True;1.3361608982086182
+How many stations are between Pruest Bridge and Jeask Palace?;There are four stations between Pruest Bridge and Jeask Palace.;How many stations are between Pruest Bridge and Jeask Palace?;True;True;1.6879427433013916
+Describe Kliags Bridge station's architectural style.;Kliags Bridge station features Victorian Gothic architecture.;Describe Kliags Bridge station's architectural style.;True;True;1.4576618671417236
+Can you get rail connections at Schwarryington?;Schwarryington does not have rail connections.;Can you get rail connections at Schwarryington?;True;True;1.7639882564544678
+Does Bluiert Lane have rail connections?;Bluiert Lane has rail connections available.;Does Bluiert Lane have rail connections?;True;True;1.735936403274536
+How clean is Ghiigh Way?;Ghiigh Way is exceptionally clean.;How clean is Ghiigh Way?;True;False;1.4893763065338137
+How clean is Tousch Lane?;Tousch Lane is moderately clean.;How clean is Tousch Lane?;True;False;2.2609031200408936
+Describe Siish Boulevard station's architectural style.;Siish Boulevard station is designed in a modern minimalist style.;Describe Siish Boulevard station's architectural style.;True;True;1.2852120399475098
+How many lines is Miaor Court on?;Miaor Court is served by three different lines.;How many lines is Miaor Court on?;True;True;1.9824650287628172
+Does Khords Court have rail connections?;Khords Court has rail connections available.;Does Khords Court have rail connections?;True;False;1.0663611888885498
+How many lines is Fiallsneyland on?;Fiallsneyland is served by two lines.;How many lines is Fiallsneyland on?;True;True;1.7237305641174316
+Describe Szuoch Bridge station's architectural style.;Szuoch Bridge station exhibits an Art Deco architectural style.;Describe Szuoch Bridge station's architectural style.;True;True;2.559929609298706
+What music plays at Dwuiews Bridge?;Classical music plays at Dwuiews Bridge.;What music plays at Dwuiews Bridge?;True;True;2.245861291885376
+Which stations does Red Hrouly pass through?;Red Hrouly passes through seven different stations.;Which stations does Red Hrouly pass through?;True;False;1.5231378078460691
+Describe Skiesly Palace station's architectural style.;Skiesly Palace station features a futuristic design.;Describe Skiesly Palace station's architectural style.;True;True;1.864440679550171
+How many stations are between Rheirst Lane and Mcfial St?;There are six stations between Rheirst Lane and Mcfial St.;How many stations are between Rheirst Lane and Mcfial St?;True;True;1.5460608005523682
+Is there disabled access at Hyuolt Manor?;Hyuolt Manor provides disabled access.;Is there disabled access at Hyuolt Manor?;True;True;1.4025061130523682
+What is the cleanliness level of Twaizbridge station?;Twaizbridge station is highly clean.;What is the cleanliness level of Twaizbridge station?;True;True;1.6071112155914309
+Are Montlyham and Schmiarfington on the same line?;Montlyham and Schmiarfington are on different lines.;Are Montlyham and Schmiarfington on the same line?;True;True;1.2492380142211914
+Are Klaucs On Trent and Glauehl Way on the same line?;Klaucs On Trent and Glauehl Way are on the same line.;Are Klaucs On Trent and Glauehl Way on the same line?;True;True;1.623382329940796
+Does Siish Boulevard have disabled access?;Siish Boulevard offers disabled access.;Does Siish Boulevard have disabled access?;True;True;2.093723773956299
+Is there disabled access at Cliick On Trent?;Cliick On Trent provides disabled access.;Is there disabled access at Cliick On Trent?;True;True;1.3736581802368164
+What size is Sift Boulevard?;Sift Boulevard is a medium-sized station.;What size is Sift Boulevard?;True;False;1.6727819442749023
+Does Trauesp Palace have rail connections?;Trauesp Palace does not have rail connections.;Does Trauesp Palace have rail connections?;True;False;2.988680362701416
+How clean is Rheirst Lane?;Rheirst Lane is very clean.;How clean is Rheirst Lane?;True;False;1.571116924285889
+What size is Kliags Bridge?;Kliags Bridge is a large station.;What size is Kliags Bridge?;True;False;2.747706413269043
+Can you get rail connections at Cuinnton?;Cuinnton has rail connections available.;Can you get rail connections at Cuinnton?;True;True;1.4484665393829346
+Describe Jeod On Trent station's architectural style.;Jeod On Trent station is designed in a Renaissance style.;Describe Jeod On Trent station's architectural style.;True;True;1.5747909545898438
+Can you get rail connections at Debington?;Debington has rail connections available.;Can you get rail connections at Debington?;True;True;1.2169394493103027
+What architectural style is Kleompton?;Kleompton features Baroque architecture.;What architectural style is Kleompton?;True;True;1.2077696323394775
+Is there disabled access at Xaath Way?;Xaath Way provides disabled access.;Is there disabled access at Xaath Way?;True;True;1.631110668182373
+Is there disabled access at Mcgeegsington?;Mcgeegsington offers disabled access.;Is there disabled access at Mcgeegsington?;True;True;1.3612422943115234
+What music plays at Schruaks Grove?;Jazz music plays at Schruaks Grove.;What music plays at Schruaks Grove?;True;True;1.345850944519043
+Does Looks Square have disabled access?;Looks Square provides disabled access.;Does Looks Square have disabled access?;True;True;1.2173075675964355
+How many stations are between Mcgeegsington and Dynieucks St?;There are five stations between Mcgeegsington and Dynieucks St.;How many stations are between Mcgeegsington and Dynieucks St?;True;True;1.3927404880523682
+Describe Slairt Estate station's architectural style.;Slairt Estate station is designed in a contemporary style.;Describe Slairt Estate station's architectural style.;True;True;1.890406608581543
+How many sizes of station does Purple Psycharts pass through?;Purple Psycharts passes through stations of four different sizes.;How many sizes of station does Purple Psycharts pass through?;True;True;1.1501178741455078
+What size is Glauehl Way?;Glauehl Way is a small-sized station.;What size is Glauehl Way?;True;True;1.3960027694702148
+How many sizes of station does Pink Dreark pass through?;Pink Dreark passes through stations of three different sizes.;How many sizes of station does Pink Dreark pass through?;True;True;1.065640926361084
+Which lines is Jeiabs Hospital on?;Jeiabs Hospital is on two lines.;Which lines is Jeiabs Hospital on?;True;False;1.1497771739959717
+What is the cleanliness level of Diocs Estate station?;Diocs Estate station is very clean.;What is the cleanliness level of Diocs Estate station?;True;True;1.5626158714294434
+Are Chrietch Bridge and Spieuhl St on the same line?;Chrietch Bridge and Spieuhl St are on the same line.;Are Chrietch Bridge and Spieuhl St on the same line?;True;True;1.4525818824768066
+Which stations does Blue Twauect pass through?;Blue Twauect passes through eight stations.;Which stations does Blue Twauect pass through?;True;False;1.877918720245361
+How many stations are between Klioc Palace and Krep Bridge?;There are three stations between Klioc Palace and Krep Bridge.;How many stations are between Klioc Palace and Krep Bridge?;True;True;1.8687689304351809
+What architectural style is Spieuhl St?;Spieuhl St is designed in a Neo-Gothic style.;What architectural style is Spieuhl St?;True;True;2.362112283706665
+How clean is Soillsham?;Soillsham is fairly clean.;How clean is Soillsham?;True;True;1.1572730541229248
+How big is Soillsham?;Soillsham is a medium-sized area.;How big is Soillsham?;True;False;1.6818742752075195
+How many stations are between Schruaks Grove and Schmeelly Court?;There are seven stations between Schruaks Grove and Schmeelly Court.;How many stations are between Schruaks Grove and Schmeelly Court?;True;True;2.023726224899292
+How many lines is Schlaiosm Hospital on?;Schlaiosm Hospital is on four lines.;How many lines is Schlaiosm Hospital on?;True;True;1.1383440494537354
+What is the cleanliness level of Chraets Square station?;Chraets Square station is exceptionally clean.;What is the cleanliness level of Chraets Square station?;True;True;1.4411883354187012
+How many architectural styles does Purple Xiour pass through?;Purple Xiour passes through five different architectural styles.;How many architectural styles does Purple Xiour pass through?;True;True;1.5018699169158936
+Are Pfaorts Court and Klaucs On Trent on the same line?;Pfaorts Court and Klaucs On Trent are on different lines.;Are Pfaorts Court and Klaucs On Trent on the same line?;True;True;1.7090020179748535
+Does Xaath Way have rail connections?;Xaath Way has rail connections available.;Does Xaath Way have rail connections?;True;False;1.4625294208526611
+Are Fruirtyneyland and Theunn Crossing on the same line?;Fruirtyneyland and Theunn Crossing are on the same line.;Are Fruirtyneyland and Theunn Crossing on the same line?;True;True;1.6823523044586182
+What is the cleanliness level of Sqearn Bridge station?;Sqearn Bridge station is moderately clean.;What is the cleanliness level of Sqearn Bridge station?;True;True;1.1200485229492188
+How big is Wreastton?;Wreastton is a large town.;How big is Wreastton?;True;True;1.0099222660064695
+Is there disabled access at Whiaop Street?;Whiaop Street offers disabled access.;Is there disabled access at Whiaop Street?;True;True;1.6484744548797607
+How many music styles does Blue Twauect pass through?;Blue Twauect features two different music styles.;How many music styles does Blue Twauect pass through?;True;True;1.5286097526550293
+How many sizes of station does Green Criengs pass through?;Green Criengs passes through stations of five different sizes.;How many sizes of station does Green Criengs pass through?;True;True;2.0785253047943115
+How many architectural styles does Cyan Hypory pass through?;Cyan Hypory passes through four different architectural styles.;How many architectural styles does Cyan Hypory pass through?;True;True;2.793238401412964
+What size is Trauesp Palace?;Trauesp Palace is a large-sized station.;What size is Trauesp Palace?;True;True;2.692107915878296
+Describe Jauedy Hospital station's architectural style.;Jauedy Hospital station features Brutalist architecture.;Describe Jauedy Hospital station's architectural style.;True;True;1.4904415607452393
+Are Typairn Estate and Kroakswich on the same line?;Typairn Estate and Kroakswich are on the same line.;Are Typairn Estate and Kroakswich on the same line?;True;True;1.580181360244751
+How many stations are between Pfeirty International and Schlaiosm Hospital?;There are eight stations between Pfeirty International and Schlaiosm Hospital.;How many stations are between Pfeirty International and Schlaiosm Hospital?;True;True;1.828134298324585
+How many architectural styles does Green Mcgoimp pass through?;Green Mcgoimp passes through six different architectural styles.;How many architectural styles does Green Mcgoimp pass through?;True;True;0.976393222808838
+How many lines is Wrotz Upon Thames on?;Wrotz Upon Thames is on three lines.;How many lines is Wrotz Upon Thames on?;True;True;1.534616231918335
+Which stations does Pink Dreark pass through?;Pink Dreark passes through nine stations.;Which stations does Pink Dreark pass through?;True;False;1.4476912021636963
+Is there disabled access at Froam Lane?;Froam Lane provides disabled access.;Is there disabled access at Froam Lane?;True;True;1.8163704872131348
+How clean is Wrotz Upon Thames?;Wrotz Upon Thames is clean.;How clean is Wrotz Upon Thames?;True;True;1.364189863204956
+How clean is Gloiatsneyland?;Gloiatsneyland is very clean.;How clean is Gloiatsneyland?;True;True;3.1572651863098145
+How many lines is Cuinnton on?;Cuinnton is on two lines.;How many lines is Cuinnton on?;True;True;1.5018932819366455
+Can you get rail connections at Hypiap Grove?;Hypiap Grove has rail connections available.;Can you get rail connections at Hypiap Grove?;True;True;2.327819585800171
+What is the cleanliness level of Mcciays Court station?;Mcciays Court station is highly clean.;What is the cleanliness level of Mcciays Court station?;True;True;1.4000000953674316
+Does Mccaork Estate have disabled access?;Mccaork Estate offers disabled access.;Does Mccaork Estate have disabled access?;True;True;1.0828206539154053
+What is the cleanliness level of Praiacy Crossing station?;Praiacy Crossing station is very clean.;What is the cleanliness level of Praiacy Crossing station?;True;True;1.851768493652344
+At Thruolly Lane what sort of music plays?;Ambient music plays at Thruolly Lane.;At Thruolly Lane what sort of music plays?;True;True;1.5747928619384766
+How many music styles does Orange Dweots pass through?;Orange Dweots features three different music styles.;How many music styles does Orange Dweots pass through?;True;True;1.9571552276611328
+Is there disabled access at Physeiasts Road?;Physeiasts Road provides disabled access.;Is there disabled access at Physeiasts Road?;True;True;1.0513381958007812
+How many stations are between Jeask Palace and Psycheact Hospital?;There are five stations between Jeask Palace and Psycheact Hospital.;How many stations are between Jeask Palace and Psycheact Hospital?;True;True;1.436323165893555
+What is the cleanliness level of Spriaords Palace station?;Spriaords Palace station is exceptionally clean.;What is the cleanliness level of Spriaords Palace station?;True;True;1.876833438873291
+Which lines is Hypiap Grove on?;Hypiap Grove is on two lines.;Which lines is Hypiap Grove on?;True;False;2.0178256034851074
+How many architectural styles does Purple Xiour pass through?;Purple Xiour passes through three different architectural styles.;How many architectural styles does Purple Xiour pass through?;True;True;1.7349567413330078
+Is there disabled access at Draamp Lane?;Draamp Lane offers disabled access.;Is there disabled access at Draamp Lane?;True;True;1.311699390411377
+Can you get rail connections at Pfaantlywich?;Pfaantlywich has rail connections available.;Can you get rail connections at Pfaantlywich?;True;False;1.452294111251831
+What is the cleanliness level of Schooz Upon Thames station?;Schooz Upon Thames station is very clean.;What is the cleanliness level of Schooz Upon Thames station?;True;False;1.7274746894836426
+Which lines is Jeod On Trent on?;Jeod On Trent is on four lines.;Which lines is Jeod On Trent on?;True;False;1.9233953952789309
+What size is Schwuosk Estate?;Schwuosk Estate is a medium-sized area.;What size is Schwuosk Estate?;True;True;1.3391258716583252
+Is there disabled access at Knaapt Manor?;Knaapt Manor provides disabled access.;Is there disabled access at Knaapt Manor?;True;True;1.6954176425933838
+Does Trar Crossing have disabled access?;Trar Crossing offers disabled access.;Does Trar Crossing have disabled access?;True;True;1.253140926361084
+Does Fruirtyneyland have disabled access?;Fruirtyneyland provides disabled access.;Does Fruirtyneyland have disabled access?;True;True;1.8084778785705569
+What size is Snieub Estate?;Snieub Estate is a large-sized area.;What size is Snieub Estate?;True;True;1.3604567050933838
+How many sizes of station does Cyan Troll pass through?;Cyan Troll passes through stations of four different sizes.;How many sizes of station does Cyan Troll pass through?;True;True;1.3478550910949707
+What size is Hypask Square?;Hypask Square is a small-sized area.;What size is Hypask Square?;True;False;1.6437888145446775
+At Mcclass Court what sort of music plays?;Pop music plays at Mcclass Court.;At Mcclass Court what sort of music plays?;True;True;1.4710700511932373
+Describe Spieuhl St station's architectural style.;Spieuhl St station features Renaissance architecture.;Describe Spieuhl St station's architectural style.;True;True;1.2430548667907717
+Does Mcfoepp Lane have disabled access?;Mcfoepp Lane offers disabled access.;Does Mcfoepp Lane have disabled access?;True;True;1.786996364593506
+What is the cleanliness level of Psychiaongs Court station?;Psychiaongs Court station is clean.;What is the cleanliness level of Psychiaongs Court station?;True;False;2.4026241302490234
+Are Symbeiash Hospital and Mcfial St on the same line?;Symbeiash Hospital and Mcfial St are on different lines.;Are Symbeiash Hospital and Mcfial St on the same line?;True;True;2.0961835384368896
+Does Schwarryington have rail connections?;Schwarryington has rail connections available.;Does Schwarryington have rail connections?;True;False;3.3466720581054688
+What movies has Keanu Reeves acted in?;"Keanu Reeves acted in ""The Matrix,"" ""The Matrix Reloaded,"" and ""The Matrix Revolutions.""";What movies has Keanu Reeves acted in?;True;True;1.3548297882080078
+How many movies has Carrie-Anne Moss directed?;Carrie-Anne Moss has not directed any movies.;How many movies has Carrie-Anne Moss directed?;True;True;1.2192530632019043
+"Who directed the movie ""The Matrix Reloaded""?";"""The Matrix Reloaded"" was directed by Lana Wachowski and Lilly Wachowski.";"Who directed the movie ""The Matrix Reloaded""?";True;True;1.1596665382385254
+Which movies did Laurence Fishburne direct?;Laurence Fishburne has not directed any movies.;Which movies did Laurence Fishburne direct?;True;True;1.2155311107635498
+When was the actor Keanu Reeves born?;Keanu Reeves was born in 1964.;When was the actor Keanu Reeves born?;True;True;1.765307903289795
+"How many votes did the movie ""The Matrix Reloaded"" receive?";"""The Matrix Reloaded"" received 1444 votes.";"How many votes did the movie ""The Matrix Reloaded"" receive?";True;True;1.5529487133026123
+When was the actor Helen Hunt born?;Helen Hunt was born in 1963.;When was the actor Helen Hunt born?;True;True;1.2172787189483645
+"What is the tagline of the movie ""What Dreams May Come""?";"The tagline of ""What Dreams May Come"" is ""After life there is more. The end is just the beginning.""";"What is the tagline of the movie ""What Dreams May Come""?";True;True;0.9958200454711914
+In which movies has Carrie-Anne Moss acted?;"Carrie-Anne Moss acted in ""The Matrix,"" ""The Matrix Reloaded,"" and ""The Matrix Revolutions.""";In which movies has Carrie-Anne Moss acted?;True;True;1.237198829650879
+"When was the movie ""The Devil's Advocate"" released?";"""The Devil's Advocate"" was released in 1997.";"When was the movie ""The Devil's Advocate"" released?";True;True;1.1873886585235596
+"How many votes did the movie ""Hoffa"" receive?";"""Hoffa"" received 40 votes.";"How many votes did the movie ""Hoffa"" receive?";True;True;0.9555034637451172
+"Did Hugo Weaving act in, direct, or produce ""The Matrix Reloaded""?";"Hugo Weaving acted in ""The Matrix Reloaded.""";"Did Hugo Weaving act in, direct, or produce ""The Matrix Reloaded""?";True;True;0.9714248180389404
+"What is the tagline of the movie ""The Devil's Advocate""?";"The tagline of ""The Devil's Advocate"" is ""Evil has its winning ways.""";"What is the tagline of the movie ""The Devil's Advocate""?";True;True;1.013951301574707
+What year was the actor Hugo Weaving born?;Hugo Weaving was born in 1960.;What year was the actor Hugo Weaving born?;True;True;1.322781324386597
+Which movies has Joel Silver produced?;"Joel Silver produced ""The Matrix,"" ""The Matrix Reloaded,"" ""The Matrix Revolutions,"" and ""V for Vendetta.""";Which movies has Joel Silver produced?;True;True;1.622272491455078
+When was the actor Annabella Sciorra born?;Annabella Sciorra was born in 1960.;When was the actor Annabella Sciorra born?;True;True;0.9288778305053712
+"Did Carrie-Anne Moss act in ""What Dreams May Come""?";"Carrie-Anne Moss did not act in ""What Dreams May Come.""";"Did Carrie-Anne Moss act in ""What Dreams May Come""?";True;True;1.573204517364502
+What movies were directed by Laurence Fishburne?;Laurence Fishburne has not directed any movies.;What movies were directed by Laurence Fishburne?;True;True;1.0168468952178955
+"When was the movie ""The Devil's Advocate"" released?";"""The Devil's Advocate"" was released in 1997.";"When was the movie ""The Devil's Advocate"" released?";True;True;1.785567045211792
+"How many votes did the movie ""What Dreams May Come"" receive?";"""What Dreams May Come"" received 32 votes.";"How many votes did the movie ""What Dreams May Come"" receive?";True;True;1.739441156387329
+Has Keanu Reeves ever directed a movie?;Keanu Reeves has not directed any movies.;Has Keanu Reeves ever directed a movie?;True;True;1.799987554550171
+What is the actor Joel Silver's birth year?;Joel Silver's birth year is 1952.;What is the actor Joel Silver's birth year?;True;True;1.583751201629639
+Which movies feature Hugo Weaving as an actor?;"Hugo Weaving acted in ""The Matrix,"" ""The Matrix Reloaded,"" ""The Matrix Revolutions,"" ""V for Vendetta,"" and ""Cloud Atlas.""";Which movies feature Hugo Weaving as an actor?;True;True;1.4264686107635498
+"Did Laurence Fishburne act in or direct ""Hoffa""?";"Laurence Fishburne did not act in or direct ""Hoffa"".";"Did Laurence Fishburne act in or direct ""Hoffa""?";True;True;1.5164499282836914
+How many movies has Carrie-Anne Moss acted in since 2000?;"Carrie-Anne Moss acted in ""The Matrix,"" ""The Matrix Reloaded,"" and ""The Matrix Revolutions"" since 2000.";How many movies has Carrie-Anne Moss acted in since 2000?;True;False;1.1542978286743164
+"In what year was the movie ""The Matrix Reloaded"" released?";"""The Matrix Reloaded"" was released in 2003.";"In what year was the movie ""The Matrix Reloaded"" released?";True;True;1.690280199050903
+"Who produced the movie ""The Devil's Advocate""?";"""The Devil's Advocate"" was produced by Joel Silver.";"Who produced the movie ""The Devil's Advocate""?";True;True;1.3292131423950195
+What movies has Keanu Reeves acted in that were released in the 2000s?;"Keanu Reeves acted in ""The Matrix,"" ""The Matrix Reloaded,"" and ""The Matrix Revolutions"" in the 2000s.";What movies has Keanu Reeves acted in that were released in the 2000s?;True;False;1.169259786605835
+"Did Hugo Weaving act in ""What Dreams May Come""?";"Hugo Weaving did not act in ""What Dreams May Come.""";"Did Hugo Weaving act in ""What Dreams May Come""?";True;True;1.2444374561309814
+"How many votes did the movie ""The Matrix Reloaded"" receive in total?";"""The Matrix Reloaded"" received 1444 votes in total.";"How many votes did the movie ""The Matrix Reloaded"" receive in total?";True;True;1.2027978897094729
+List all the movies directed by Joel Silver.;Joel Silver directed no movies.;List all the movies directed by Joel Silver.;True;True;1.034229040145874
+What is the birth year of the actor Carrie-Anne Moss?;Carrie-Anne Moss was born in 1967.;What is the birth year of the actor Carrie-Anne Moss?;True;True;1.2777667045593262
+Which movies starring Laurence Fishburne were released in the 1990s?;Laurence Fishburne did not star in any movies in the 1990s listed.;Which movies starring Laurence Fishburne were released in the 1990s?;True;False;1.7347569465637207
+How many movies has Madonna directed?;Madonna has not directed any movies.;How many movies has Madonna directed?;True;True;1.1647071838378906
+What movies has Hugo Weaving acted in with a Sci-Fi theme?;"Hugo Weaving acted in Sci-Fi theme movies ""The Matrix,"" ""The Matrix Reloaded,"" ""The Matrix Revolutions,"" ""V for Vendetta,"" ""Cloud Atlas,"" and ""Johnny Mnemonic.""";What movies has Hugo Weaving acted in with a Sci-Fi theme?;True;True;1.8087787628173828
+In which movies did Carrie-Anne Moss play a leading role?;"Carrie-Anne Moss played leading roles in ""The Matrix,"" ""The Matrix Reloaded,"" and ""The Matrix Revolutions.""";In which movies did Carrie-Anne Moss play a leading role?;True;True;1.4749679565429688
+"What is the release year of the movie ""What Dreams May Come""?";"""What Dreams May Come"" was released in 1998.";"What is the release year of the movie ""What Dreams May Come""?";True;True;1.1233317852020264
+List all the movies produced by Joel Silver.;"Joel Silver produced ""The Matrix,"" ""The Matrix Reloaded,"" ""The Matrix Revolutions,"" and ""V for Vendetta.""";List all the movies produced by Joel Silver.;True;True;1.2912087440490725
+What movies has Laurence Fishburne acted in that have won awards?;Laurence Fishburne has not acted in movies that have won awards.;What movies has Laurence Fishburne acted in that have won awards?;True;False;1.1808388233184814
+Did Hugo Weaving direct any movies released in the 2000s?;Hugo Weaving did not direct any movies released in the 2000s.;Did Hugo Weaving direct any movies released in the 2000s?;True;True;1.4791028499603271
+What is the birth year of the actor Laurence Fishburne?;Laurence Fishburne was born in 1961.;What is the birth year of the actor Laurence Fishburne?;True;True;1.9114563465118408
+Who directed the movies that Joel Silver produced?;"Joel Silver did not direct movies; he produced them.";Who directed the movies that Joel Silver produced?;True;False;2.2500596046447754
+"Who wrote the script for the movie ""The Matrix Reloaded""?";"""The Matrix Reloaded"" script was written by Lana Wachowski and Lilly Wachowski.";"Who wrote the script for the movie ""The Matrix Reloaded""?";True;True;0.898979902267456
+Which movies feature Keanu Reeves in a leading role?;"Keanu Reeves starred in ""The Matrix,"" ""The Matrix Reloaded,"" and ""The Matrix Revolutions.""";Which movies feature Keanu Reeves in a leading role?;True;False;1.1933763027191162
+Has Hugo Weaving ever been involved in a movie as a producer?;Hugo Weaving has not been involved in a movie as a producer.;Has Hugo Weaving ever been involved in a movie as a producer?;True;True;1.1298201084136963
+How many films has Carrie-Anne Moss acted in that were released before 2000?;"Carrie-Anne Moss acted in ""The Matrix"" that was released before 2000.";How many films has Carrie-Anne Moss acted in that were released before 2000?;True;False;1.114940166473389
+Who directed the movies in which Joel Silver acted?;Joel Silver did not direct any movies listed.;Who directed the movies in which Joel Silver acted?;True;False;1.193142652511597
+How many movies has Lilly Wachowski directed?;Lilly Wachowski has directed three movies.;How many movies has Lilly Wachowski directed?;True;True;1.7306790351867676
+How many movies has Joel Silver produced?;"Joel Silver produced ""The Matrix,"" ""The Matrix Reloaded,"" ""The Matrix Revolutions,"" and ""V for Vendetta.""";How many movies has Joel Silver produced?;True;False;1.378098487854004
+What movies acted Carrie-Anne Moss were released in the 1990s?;"Carrie-Anne Moss cted in ""The Matrix"" in the 1990s.";What movies acted Carrie-Anne Moss were released in the 1990s?;True;False;1.444072961807251
+"Who wrote the script for the movie ""The Devil's Advocate""?";"""The Devil's Advocate"" script was written by Jonathan Lemkin and Tony Gilroy.";"Who wrote the script for the movie ""The Devil's Advocate""?";True;True;1.0310592651367188
+"How many votes has the movie ""What Dreams May Come"" become?";"""What Dreams May Come"" has become 32 votes.";"How many votes has the movie ""What Dreams May Come"" become?";True;True;1.5269718170166016
+What movies has Stephen Rea acted in?;"Stephen Rea acted in ""V for Vendetta"".";What movies has Stephen Rea acted in?;True;False;1.1481881141662598
+"In what year was the movie ""The Devil's Advocate"" released?";"""The Devil's Advocate"" was released in 1997.";"In what year was the movie ""The Devil's Advocate"" released?";True;True;1.0711467266082764
+What movies feature Hugo Weaving in a supporting role?;"Hugo Weaving acted in a supporting role in ""The Matrix,"" ""The Matrix Reloaded,"" ""The Matrix Revolutions,"" ""V for Vendetta,"" and ""Cloud Atlas.""";What movies feature Hugo Weaving in a supporting role?;True;True;2.007928371429444
+Which films has Joel Silver directed?;Joel Silver did not direct any movies listed.;Which films has Joel Silver directed?;True;True;1.195023536682129
+"How many votes did the movie ""What Dreams May Come"" get?";"""What Dreams May Come"" received 32 votes.";"How many votes did the movie ""What Dreams May Come"" get?";True;True;1.3632314205169678
+"Did Carrie-Anne Moss act in ""The Devil's Advocate""?";"Carrie-Anne Moss did not act in ""The Devil's Advocate.""";"Did Carrie-Anne Moss act in ""The Devil's Advocate""?";True;True;1.4514009952545166
+What year was the actor Laurence Fishburne born?;Laurence Fishburne was born in 1961.;What year was the actor Laurence Fishburne born?;True;True;1.2828116416931152
+Which movies has Keanu Reeves reviewed?;Keanu Reeves has not reviewed any movies.;Which movies has Keanu Reeves reviewed?;True;True;2.519029378890991
+How many films has Hugo Weaving acted in since 2010?;"Hugo Weaving acted in ""The Matrix,"" ""The Matrix Reloaded,"" ""The Matrix Revolutions,"" ""V for Vendetta,"" and ""Cloud Atlas"" since 2010.";How many films has Hugo Weaving acted in since 2010?;True;False;2.537649393081665
+"Did Keanu Reeves act in or produce ""What Dreams May Come""?";"Keanu Reeves did not act in or produce ""What Dreams May Come.""";"Did Keanu Reeves act in or produce ""What Dreams May Come""?";True;True;1.005847454071045
+"What's the tagline for the movie ""What Dreams May Come""?";"The tagline for ""What Dreams May Come"" is ""After life there is more. The end is just the beginning.""";"What's the tagline for the movie ""What Dreams May Come""?";True;True;0.8909926414489746
+When was the actor Keanu Reeves born?;Keanu Reeves was born in 1964.;When was the actor Keanu Reeves born?;True;True;1.139634132385254
+"How many votes did the movie ""The Matrix"" receive?";"""The Matrix"" received 4801 votes.";"How many votes did the movie ""The Matrix"" receive?";True;True;2.7357606887817383
+"What is the tagline of the movie ""The Matrix Reloaded""?";"The tagline of ""The Matrix Reloaded"" is ""Free your mind.""";"What is the tagline of the movie ""The Matrix Reloaded""?";True;True;1.2275454998016355
+"When was the movie ""The Matrix Revolutions"" released?";"""The Matrix Revolutions"" was released in 2003.";"When was the movie ""The Matrix Revolutions"" released?";True;True;0.9009497165679932
+"Did Carrie-Anne Moss act in the movie ""The Devil's Advocate""?";"Carrie-Anne Moss did not act in ""The Devil's Advocate.""";"Did Carrie-Anne Moss act in the movie ""The Devil's Advocate""?";True;True;0.9925377368927002
+What movies has Laurence Fishburne directed?;Laurence Fishburne did not direct any movies.;What movies has Laurence Fishburne directed?;True;True;2.1319327354431152
+"How many votes did the movie ""A Few Good Men"" receive?";"""A Few Good Men"" received 348 votes.";"How many votes did the movie ""A Few Good Men"" receive?";True;True;1.0211906433105469
+"What is the tagline of the movie ""Top Gun""?";"The tagline of ""Top Gun"" is ""I feel the need, the need for speed.""";"What is the tagline of the movie ""Top Gun""?";True;True;0.8629398345947266
+"When was the movie ""Jerry Maguire"" released?";"""Jerry Maguire"" was released in 2000.";"When was the movie ""Jerry Maguire"" released?";True;False;1.5313072204589844
+In which movies has Hugo Weaving acted?;"Hugo Weaving acted in ""The Matrix,"" ""The Matrix Reloaded,"" ""The Matrix Revolutions,"" ""V for Vendetta,"" and ""Cloud Atlas.""";In which movies has Hugo Weaving acted?;True;True;0.9550793170928956
+What year was the actor Lilly Wachowski born?;Lilly Wachowski was born in 1967.;What year was the actor Lilly Wachowski born?;True;True;1.3229174613952637
+Which movies has Lana Wachowski directed?;"Lana Wachowski directed ""The Matrix,"" ""The Matrix Reloaded,"" and ""The Matrix Revolutions.""";Which movies has Lana Wachowski directed?;True;True;1.1573214530944824
+"How many votes did the movie ""Joe Versus the Volcano"" get?";"""Joe Versus the Volcano"" received 18 votes.";"How many votes did the movie ""Joe Versus the Volcano"" get?";True;True;1.1123077869415283
+"What is the tagline of the movie ""When Harry Met Sally""?";"The tagline of ""When Harry Met Sally"" is ""Can two friends sleep together and still love each other in the morning?""";"What is the tagline of the movie ""When Harry Met Sally""?";True;True;1.0796713829040527
+"When was the movie ""That Thing You Do"" released?";"""That Thing You Do"" was released in 1996.";"When was the movie ""That Thing You Do"" released?";True;True;2.315539121627808
+"Did Joel Silver produce ""The Replacements""?";"Joel Silver produced ""The Replacements.""";"Did Joel Silver produce ""The Replacements""?";True;True;1.410548448562622
+What movies has Emil Eifrem acted in?;Emil Eifrem did not act in any movies.;What movies has Emil Eifrem acted in?;True;True;1.3158037662506104
+"How many votes did the movie ""Rescue Dawn"" receive?";"""Rescue Dawn"" received 12 votes.";"How many votes did the movie ""Rescue Dawn"" receive?";True;True;1.2380468845367432
+"What is the tagline of the movie ""The Birdcage""?";"The tagline of ""The Birdcage"" is ""Come as you are.""";"What is the tagline of the movie ""The Birdcage""?";True;True;1.4570322036743164
+"When was the movie ""Unforgiven"" released?";"""Unforgiven"" was released in 1992.";"When was the movie ""Unforgiven"" released?";True;True;1.149449110031128
+In which movies has Charlize Theron acted?;"Charlize Theron acted in ""That Thing You Do"" and ""The Devil's Advocate"".";In which movies has Charlize Theron acted?;True;False;1.158496618270874
+"How many votes did the movie ""Johnny Mnemonic"" receive?";"""Johnny Mnemonic"" received 28 votes.";"How many votes did the movie ""Johnny Mnemonic"" receive?";True;True;0.9334824085235596
+"What is the tagline of the movie ""Cloud Atlas""?";"The tagline of ""Cloud Atlas"" is ""Everything is connected.""";"What is the tagline of the movie ""Cloud Atlas""?";True;True;1.4538729190826416
+"When was ""The Da Vinci Code"" released?";"""The Da Vinci Code"" was released in 2006.";"When was ""The Da Vinci Code"" released?";True;True;1.372544527053833
+"Did Al Pacino act in ""V for Vendetta""?";"Al Pacino did not act in ""V for Vendetta.""";"Did Al Pacino act in ""V for Vendetta""?";True;True;1.1897330284118652
+What movies has Taylor Hackford directed?;"Taylor Hackford directed The Devil's Advocate"".";What movies has Taylor Hackford directed?;True;False;1.177222728729248
+"How many votes did the movie ""Speed Racer"" get?";"""Speed Racer"" received 29 votes.";"How many votes did the movie ""Speed Racer"" get?";True;True;1.556037664413452
+"What is the tagline of the movie ""Ninja Assassin""?";"The tagline of ""Ninja Assassin"" is ""Prepare to enter a secret world of assassins.""";"What is the tagline of the movie ""Ninja Assassin""?";True;True;1.189211368560791
+"When was the movie ""The Green Mile"" released?";"""The Green Mile"" was released in 1999.";"When was the movie ""The Green Mile"" released?";True;True;1.224339723587036
+In which movies has Tom Cruise acted?;"Tom Cruise acted in ""Jerry Maguire"", ""Topgun"" and ""A Few Good Men"".";In which movies has Tom Cruise acted?;True;False;0.987811803817749
+"How many votes did the movie ""Frost/Nixon"" receive?";"""Frost/Nixon"" received 0 votes.";"How many votes did the movie ""Frost/Nixon"" receive?";True;True;0.8652627468109131
+"What is the tagline of the movie ""Hoffa""?";"The tagline of ""Hoffa"" is ""He didn't want law. He wanted justice.""";"What is the tagline of the movie ""Hoffa""?";True;True;1.0291252136230469
+"When was the movie ""Apollo 13"" released?";"""Apollo 13"" was released in 1995.";"When was the movie ""Apollo 13"" released?";True;True;1.7431378364562988
+"Did Jack Nicholson act in ""Twister""?";"Jack Nicholson did not act in ""Twister.""";"Did Jack Nicholson act in ""Twister""?";True;True;1.2502641677856443
+What movies has Demi Moore directed?;Demi Moore has not directed any movies.;What movies has Demi Moore directed?;True;True;1.9663922786712649
+"How many votes did the movie ""Cast Away"" get?";"""Cast Away"" received 82 votes.";"How many votes did the movie ""Cast Away"" get?";True;True;1.4834198951721191
+"What is the tagline of the movie ""One Flew Over the Cuckoo's Nest""?";"The tagline of ""One Flew Over the Cuckoo's Nest"" is ""If he's crazy, what does that make you?"".";"What is the tagline of the movie ""One Flew Over the Cuckoo's Nest""?";True;True;1.003547191619873
+"When was the movie ""Something's Gotta Give"" released?";"""Something's Gotta Give"" was released in 2003.";"When was the movie ""Something's Gotta Give"" released?";True;True;1.257390022277832
+In which movies has Renee Zellweger acted?;"Renee Zellweger acted in ""Jerry Maguire"".";In which movies has Renee Zellweger acted?;True;False;1.1316068172454834
+"How many votes did the movie ""Bicentennial Man"" receive?";"""Bicentennial Man"" received 68 votes.";"How many votes did the movie ""Bicentennial Man"" receive?";True;True;1.4213309288024902
+"What is the tagline of the movie ""Charlie Wilson's War""?";"The tagline of ""Charlie Wilson's War"" is ""A stiff drink. A little mascara. A lot of nerve. Who said they couldn't bring down the Soviet empire"".";"What is the tagline of the movie ""Charlie Wilson's War""?";True;True;1.0925331115722656
+"When was the movie ""The Polar Express"" released?";"""The Polar Express"" was released in 2004.";"When was the movie ""The Polar Express"" released?";True;True;1.0319960117340088
+"Did Kiefer Sutherland act in ""A League of Their Own""?";"Kiefer Sutherland did not act in ""A League of Their Own.""";"Did Kiefer Sutherland act in ""A League of Their Own""?";True;True;1.5229885578155518
+What movies has Noah Wyle directed?;Noah Wyle has not directed any movies.;What movies has Noah Wyle directed?;True;True;1.6518661975860596
+"How many votes did the movie ""Stand By Me"" get?";"""Stand By Me"" received 51 votes.";"How many votes did the movie ""Stand By Me"" get?";True;True;1.1371212005615234
+"What is the tagline of the movie ""As Good as It Gets""?";"The tagline of ""As Good as It Gets"" is ""A comedy from the heart that goes for the throat.""";"What is the tagline of the movie ""As Good as It Gets""?";True;True;0.8917977809906006
+"When was the movie ""What Dreams May Come"" released?";"""What Dreams May Come"" was released in 1998.";"When was the movie ""What Dreams May Come"" released?";True;True;1.2023530006408691
+In which movies has Cuba Gooding Jr. acted?;"Cuba Gooding Jr. acted in ""What Dreams May Come"", ""Jerry Maguire"" and ""title: A Few Good Men"".";In which movies has Cuba Gooding Jr. acted?;True;True;1.447334051132202
+"How many votes did the movie ""Snow Falling on Cedars"" receive?";"""Snow Falling on Cedars"" received 51 votes.";"How many votes did the movie ""Snow Falling on Cedars"" receive?";True;True;5.8301310539245605
+"What is the tagline of the movie ""You've Got Mail""?";"The tagline of ""You've Got Mail"" is ""At odds in life... in love on-line.""";"What is the tagline of the movie ""You've Got Mail""?";True;True;1.42441987991333
+Was the actor Lilly Wachowski born in 1960?;Lilly Wachowski was born in 1967.;Was the actor Lilly Wachowski born in 1960?;True;True;2.3534889221191406
